@@ -1,6 +1,6 @@
 # Retro Homepage
 
-一個ChatGPT製作的復古風格個人網站模板。採用靜態 HTML + CSS + ES3 JavaScript，無需 Node.js、框架或建置工具。
+一個的復古風格個人網站模板。採用靜態 HTML + CSS + ES3 JavaScript，無需 Node.js、框架或建置工具。
 
 ## 重要相容性說明
 
@@ -45,4 +45,3 @@
 **新增文章：** 新增 `posts/新文章ID.md`，再於 `assets/config.js` 的 `POSTS` 陣列新增標題、日期、分類及摘要等索引資料。正文仍只寫在 `.md` 檔。
 
 注意：由於瀏覽器安全限制，請透過 GitHub Pages 等 HTTP/HTTPS 網址查看文章；直接雙擊 HTML（`file://`）可能無法載入 Markdown。
-# AI製作！！！！！！
